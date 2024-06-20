@@ -23,7 +23,7 @@ const Menus = ({ toggle }) => {
           <Zoom>
             <div className="navbar-profile-pic">
               <img
-                src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtWeMk10Jucx-7keCNxddBfx2sfK92_DKbHQ&s"
+                src="https://avatars.githubusercontent.com/u/118759857?v=4"
                 alt="profile pic"
               />
             </div>
