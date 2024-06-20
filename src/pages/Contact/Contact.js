@@ -59,14 +59,35 @@ const Contact = () => {
                     <div className="row">
                       <h6>
                         Connect with
-                        <BsLinkedin color="blue" size={20} className="ms-2" />
-                        <BsGithub color="black" size={20} className="ms-2" />
-                        <BsInstagram
-                          color="Purple"
-                          size={20}
-                          className="ms-2"
-                        />
-                        <BsWhatsapp color="Green" size={20} className="ms-2" />
+                        <a
+                          href="www.linkedin.com/in/sandarbh-bajpai
+"
+                          target="_blank"
+                          rel="noopener noreferrer"
+                        >
+                          <BsLinkedin color="blue" size={20} className="ms-2" />
+                        </a>
+                        <a
+                          href="https://github.com/Bajpaisandarbh"
+                          target="_blank"
+                          rel="noopener noreferrer"
+                        >
+                          <BsGithub color="black" size={20} className="ms-2" />
+                        </a>
+                        <a
+                          href="https://www.instagram.com/bsandarbh/"
+                          target="_blank"
+                          rel="noopener noreferrer"
+                        >
+                          <BsInstagram
+                            color="Purple"
+                            size={20}
+                            className="ms-2"
+                          />
+                        </a>
+                       <a href="https://wa.me/9352643208" target="_blank" rel="noopener noreferrer">
+                          <BsWhatsapp color="Green" size={20} className="ms-2" />
+                        </a>
                       </h6>
                     </div>
                     <div className="row px-3 mb-4">
